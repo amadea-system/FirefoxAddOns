@@ -2,7 +2,10 @@
   "addons": {
     "mochitab@nyaa.zip": {
       "updates": [
-
+        {
+            "version": "0.0.7.0",
+            "update_link": "https://github.com/amadea-system/FirefoxAddOns/releases/download/mochitab-v0.0.7.0/MochiTab-0.0.7.0.xpi"
+        }
       ]
     }
   }
